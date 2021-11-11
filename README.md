@@ -33,6 +33,8 @@ What do I mean by "interesting constraint"? I just mean unusual rules we'll set 
 
 ## My tools
 
+_No, I'm not using Visual Studio 2022 tonight_
+
 1. Pop!_OS Linux (an Ubuntu derivative from System76)
 1. Neovim with coc.vim and omnisharp
     * This uses the same "Language Server Protocol" that VS Code uses
